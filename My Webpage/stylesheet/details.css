@@ -1,0 +1,16 @@
+body{
+    
+    background-color: rgb(135, 246, 246);
+    justify-content: center;
+
+}
+#hed{
+    width: 300px 600px;
+    text-decoration: underline;
+    margin-left: 50%;
+    margin-top: 5%;
+ }
+ #mydet{
+    margin-top: 4%;
+    margin-left: 45%;
+ } 
